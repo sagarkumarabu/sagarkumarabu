@@ -1,5 +1,3 @@
-[![Alt text](kwork_PavloBondarenko_12.jpg)](https://pavlobondarenko.net)
-
 <h1 align="center">Hi, Sagar kumar! 👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pavlo_bondarenko_visitor_badge_simple&left_color=royalblue&right_color=black"  />
 

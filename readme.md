@@ -1,7 +1,8 @@
 <h1 align="center">Hi I am, Sagar kumar! 👋 </h1>
 <p align="center">
-  <img src="https://laobi.icu" alt="Visitor Badge" />
+  <img src="https://komarev.com" alt="Visitor Badge" />
 </p>
+
 
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 

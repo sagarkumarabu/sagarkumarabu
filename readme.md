@@ -22,15 +22,13 @@
         <!-- Fixed to use raw user content link so the image actually renders -->
         <img align="left" width="100%" alt="GitHub Metrics" src="https://githubusercontent.com">
     </div>
-
-    <!-- Right Column: Content -->
     <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;">
         <h3>🌐 Let's Connect and Grow Together!</h3>
         <p>
             <a href="https://www.linkedin.com/in/sagarkumarabu/" target="_blank" style="text-decoration: none;">
                 <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn" width="40">
             </a>
-            <a href="https://www.youtube.com/playtech01" target="_blank" style="text-decoration: none;">
+            <a href="https://www.youtube.com/@playtech01" target="_blank" style="text-decoration: none;">
                 <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg" alt="YouTube" width="40">
             </a>
             <a href="https://www.instagram.com/mrsagarkumar/" target="_blank" style="text-decoration: none;">

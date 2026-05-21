@@ -9,7 +9,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg" alt="GitHub Snake" />
 </p>
-
+<!-- github-metrics-start -->
+<img src="github-metrics.svg" alt="GitHub Metrics">
+<!-- github-metrics-end -->
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
     <!-- Left Column: Metrics -->
     <div style="flex: 1; max-width: 45%;">

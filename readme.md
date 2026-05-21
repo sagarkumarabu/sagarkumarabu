@@ -9,15 +9,15 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg" alt="GitHub Snake" />
 </p>
-<!-- github-metrics-start -->
-<img src="github-metrics.svg" alt="GitHub Metrics">
-<!-- github-metrics-end -->
+
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
-    <!-- Left Column: Metrics -->
-    <div style="flex: 1; max-width: 45%;">
-        <!-- Fixed to use raw user content link so the image actually renders -->
-        <img align="left" width="100%" alt="GitHub Metrics" src="https://githubusercontent.com">
+    <!-- Left Column: Metrics Image -->
+    <div style="flex: 1; max-width: 50%;">
+        <!-- github-metrics-start -->
+        <img width="100%" alt="GitHub Metrics" src="github-metrics.svg">
+        <!-- github-metrics-end -->
     </div>
+    <!-- Right Column: Bio and Links -->
     <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;">
         <h3>🌐 Let's Connect and Grow Together!</h3>
         <p>
@@ -31,7 +31,7 @@
         <h3>✨ Fun Facts</h3>
         <ul>
             <li>I enjoy creating content for my YouTube channel.</li>
-            <li>In my free time, I explore the beauty of nature and capture it through my photography</li>
+            <li>In my free time, I explore the beauty of nature and capture it through my photography.</li>
         </ul> 
         <h3>🧑‍💻 About Me</h3>
         <p>
@@ -40,7 +40,7 @@
         </p>
         <p>
             My journey in tech has led me to work with various cutting-edge technologies 
-            and collaborate with amazing teams across different  projects. 
+            and collaborate with amazing teams across different projects. 
         </p>
     </div>
 </div>

@@ -1,7 +1,4 @@
 <h1 align="center">Hi I am, Sagar kumar! 👋 </h1>
-<p align="center">
-  <img src="https://komarev.com" alt="Visitor Badge" />
-</p>
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -32,16 +29,16 @@
         <h3>✨ Fun Facts</h3>
         <ul>
             <li>I enjoy creating content for my YouTube channel.</li>
-            <li>In my free time, I explore the beauty of nature and capture it through my photography on Instagram.</li>
+            <li>In my free time, I explore the beauty of nature and capture it through my photography</li>
         </ul> 
         <h3>🧑‍💻 About Me</h3>
         <p>
-            I'm a passionate software developer with a strong background in cloud computing, game development, and full-stack web development. 
+            I'm a passionate software developer with a strong background in full-stack web development. 
             I have a keen interest in solving complex problems and building scalable solutions.
         </p>
         <p>
-            My journey in tech has led me to work with various cutting-edge technologies and collaborate with amazing teams across different 
-            projects. I’m always eager to learn new things and share my knowledge with the community through my YouTube.
+            My journey in tech has led me to work with various cutting-edge technologies 
+            and collaborate with amazing teams across different  projects. 
         </p>
     </div>
 </div>

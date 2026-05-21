@@ -31,16 +31,13 @@
         </p>
         <h3>✨ Fun Facts</h3>
         <ul>
-            <li>I love Hackathons, Swimming and Tennis.</li>
-            <li>I’m on a journey to build a big house in Alaska!</li>
-            <li>I enjoy creating content for my YouTube channel, where I share coding tutorials and project walkthroughs.</li>
+            <li>I enjoy creating content for my YouTube channel.</li>
             <li>In my free time, I explore the beauty of nature and capture it through my photography on Instagram.</li>
         </ul> 
         <h3>🧑‍💻 About Me</h3>
         <p>
             I'm a passionate software developer with a strong background in cloud computing, game development, and full-stack web development. 
-            I have a keen interest in solving complex problems and building scalable solutions. When I'm not coding, you can find me engaged 
-            in physical activities like swimming and judo, or planning my next adventure. 
+            I have a keen interest in solving complex problems and building scalable solutions.
         </p>
         <p>
             My journey in tech has led me to work with various cutting-edge technologies and collaborate with amazing teams across different 

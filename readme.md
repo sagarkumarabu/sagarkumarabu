@@ -31,9 +31,7 @@
             <a href="https://www.youtube.com/@playtech01" target="_blank" style="text-decoration: none;">
                 <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg" alt="YouTube" width="40">
             </a>
-            <a href="https://www.instagram.com/mrsagarkumar/" target="_blank" style="text-decoration: none;">
-                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram" width="40">
-            </a>
+      
         </p>
         
         <h3>✨ Fun Facts</h3>

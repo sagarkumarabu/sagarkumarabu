@@ -1,6 +1,5 @@
 name: GitHub Metrics
 on:
-  # Manual trigger only
   workflow_dispatch:
 
 jobs:
@@ -9,20 +8,12 @@ jobs:
     environment: production
     permissions:
       contents: write
-      issues: read
-      pull-requests: read
       
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 1
-          
-      - name: Fix Docker installation conflicts
-        run: |
-          sudo apt-get remove -y containerd docker.io containerd.io
-          sudo apt-get update
-          sudo apt-get install -y docker.io jq
           
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@v3.34
@@ -39,23 +30,13 @@ jobs:
           
           # Languages plugin
           plugin_languages: true
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_analysis_timeout_repositories: 7.5
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_indepth: true
           plugin_languages_limit: 8
-          plugin_languages_other: true
-          plugin_languages_recent_categories: markup, programming
+          plugin_languages_indepth: true
           plugin_languages_recent_days: 30
-          plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
           
           # LeetCode plugin
           plugin_leetcode: true
-          plugin_leetcode_limit_recent: 2
-          plugin_leetcode_limit_skills: 10
           plugin_leetcode_sections: solved
           plugin_leetcode_user: sagarkumarabu
           
@@ -63,4 +44,3 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: main
           committer_message: "📈 Update GitHub metrics [skip ci]"
-

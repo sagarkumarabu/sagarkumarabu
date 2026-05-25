@@ -11,10 +11,10 @@ jobs:
     steps:
       - uses: Platane/snk@master
         with:
-          github_user_name: sagarkumarabu  # replace with your GitHub username
-          output: dist/snake.svg
+          github_user_name: sagarkumarabu   # replace with your GitHub username
+          svg_out_path: dist/snake.svg      # correct input name
 
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v4    # updated to v4
         with:
           name: snake
           path: dist/snake.svg

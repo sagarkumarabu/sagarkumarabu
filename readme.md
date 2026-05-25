@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <!-- <img src="https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg" alt="GitHub Snake" /> -->
-  ![GitHub Snake](https://github.com/sagarkumarabu/sagarkumarabu/blob/output/snake.svg)
+ 
+  <img src="https://raw.githubusercontent.com/sagarkumarabu/sagarkumarabu/output/snake.svg">
 
 </p>
 

@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg" alt="GitHub Snake" />
+  <!-- <img src="https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg" alt="GitHub Snake" /> -->
+  ![GitHub Snake](https://github.com/sagarkumarabu/sagarkumarabu/blob/output/snake.svg)
+
 </p>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">

@@ -8,7 +8,7 @@
 
 <p align="center">
  
-  <img src="https://raw.githubusercontent.com/sagarkumarabu/sagarkumarabu/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/sagarkumarabu/sagarkumarabu/output/github-snake.svg">
 
 </p>
 

@@ -5,13 +5,9 @@
     <img src="https://skillicons.dev/icons?i=php,html,css,js,py,cpp,git,github,linux,mysql,autocad" alt="Skills and tools"/>
   </a>
 </p>
-
 <p align="center">
- 
   <img src="https://raw.githubusercontent.com/sagarkumarabu/sagarkumarabu/output/github-snake.svg">
-
 </p>
-
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
     <!-- Left Column: Metrics Image -->
     <div style="flex: 1; max-width: 50%;">
@@ -30,10 +26,9 @@
                 <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg" alt="YouTube" width="40">
             </a>
         </p>
-        <h3>✨ Fun Facts</h3>
+        <h3>✨ CONTACT ME </h3>
         <ul>
-            <li>I enjoy creating content for my YouTube channel.</li>
-            <li>In my free time, I explore the beauty of nature and capture it through my photography.</li>
+            <li>For website and Software development contact 6367125100 WHATSAPP give requirement.txt</li>
         </ul> 
         <h3>🧑‍💻 About Me</h3>
         <p>

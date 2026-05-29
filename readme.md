@@ -9,7 +9,7 @@
   <img src="https://raw.githubusercontent.com/sagarkumarabu/sagarkumarabu/output/github-snake.svg">
 </p>
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
-    <!-- Left Column: Metrics Image -->
+    
     <div style="flex: 1; max-width: 50%;">
         <!-- github-metrics-start -->
         <img width="100%" alt="GitHub Metrics" src="github-metrics.svg">
@@ -33,11 +33,7 @@
         <h3>🧑‍💻 About Me</h3>
         <p>
             I'm a passionate software developer with a strong background in full-stack web development. 
-            I have a keen interest in solving complex problems and building scalable solutions.
         </p>
-        <p>
-            My journey in tech has led me to work with various cutting-edge technologies 
-            and collaborate with amazing teams across different projects. 
-        </p>
+  
     </div>
 </div>

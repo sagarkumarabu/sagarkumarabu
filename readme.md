@@ -9,12 +9,6 @@
   <img src="https://raw.githubusercontent.com/sagarkumarabu/sagarkumarabu/output/github-snake.svg">
 </p>
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
-    
-    <div style="flex: 1; max-width: 50%;">
-        <!-- github-metrics-start -->
-        <img width="100%" alt="GitHub Metrics" src="github-metrics.svg">
-        <!-- github-metrics-end -->
-    </div>
     <!-- Right Column: Bio and Links -->
     <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;">
         <h3>🌐 Let's Connect and Grow Together!</h3>
@@ -27,13 +21,10 @@
             </a>
         </p>
         <h3>✨ CONTACT ME </h3>
-        <ul>
-            <li>For website and Software development contact 6367125100 WHATSAPP give requirement.txt</li>
-        </ul> 
+      <h4>    For website and Software development contact 6367125100 WHATSAPP give requirement.txt </h4>
         <h3>🧑‍💻 About Me</h3>
         <p>
             I'm a passionate software developer with a strong background in full-stack web development. 
         </p>
-  
     </div>
 </div>
